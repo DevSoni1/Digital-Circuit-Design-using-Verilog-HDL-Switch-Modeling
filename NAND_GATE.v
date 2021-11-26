@@ -1,4 +1,3 @@
-
 module nand_gate(
 	output out,
 	input a,b);
